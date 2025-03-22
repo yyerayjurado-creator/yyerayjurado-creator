@@ -1,4 +1,4 @@
--💻 Sobre mí
+💻 Sobre mí
 👀 Estoy interesado en: Desarrollo frontend, diseño de interfaces, accesibilidad web y tecnologías modernas como React, JavaScript y CSS avanzado.
 
 🤝 Estoy buscando colaborar en: Proyectos innovadores que desafíen mis habilidades y me permitan seguir creciendo como desarrollador.
